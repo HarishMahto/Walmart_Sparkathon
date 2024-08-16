@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 ---
 
 ## Problem Statement
@@ -81,6 +80,11 @@ Intel View scrapes competitor prices in real-time, processes them using AI model
 ![Screenshot 3](https://raw.githubusercontent.com/HarishMahto/Walmart_Sparkathon/main/App%20Screenshots/Future_Price_Prediction.png)
 ![Screenshot 4](https://raw.githubusercontent.com/HarishMahto/Walmart_Sparkathon/main/App%20Screenshots/Price_Anomaly.png)
 ![Screenshot 5](https://raw.githubusercontent.com/HarishMahto/Walmart_Sparkathon/main/App%20Screenshots/Price_Comparision.png)
+
+---
+
+## APK Download
+- [Download the APK](https://drive.google.com/file/d/1_mKBZu4G1HPD-QzZ5xqyQG6Vxuwtyhhx/view?usp=drive_link)
 
 ---
 
