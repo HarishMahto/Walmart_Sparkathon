@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/buttonColor</item>
+        <item name="colorPrimaryDark">@color/buttonColor</item>
+        <item name="colorAccent">@color/buttonColor</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- Base application theme -->
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:buttonStyle">@style/Widget.MyApp.Button</item>
+        <item name="android:textAppearance">@style/TextAppearance.MyApp</item>
+    </style>
+
+    <!-- Style for BarChart -->
+    <style name="ChartStyle">
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+    <!-- Button Style -->
+    <style name="Widget.MyApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Text Appearance Style -->
+    <style name="TextAppearance.MyApp" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.AppDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here with color and other attributes -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryColorVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accentColor</item>
+        <item name="colorSecondaryVariant">@color/accentColorVariant</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/primaryColorVariant</item>
+        <item name="android:navigationBarColor">@color/primaryColor</item>
+        <item name="colorOnBackground">@color/textColorPrimary</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/textColorPrimary</item>
+    </style>
+
+
+</resources>

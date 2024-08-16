@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">IntelView</string>
+
+    <!-- Dashboard Title -->
+    <string name="dashboard_title">Dashboard</string>
+
+    <!-- Dashboard Item Descriptions -->
+    <string name="dashboard_item1">Dashboard Item 1</string>
+    <string name="dashboard_item2">Dashboard Item 2</string>
+    <string name="dashboard_item3">Dashboard Item 3</string>
+    <string name="dashboard_item4">Dashboard Item 4</string>
+
+    <!-- Dashboard Item Labels -->
+    <string name="item1_label">Future Price Prediction</string>
+    <string name="item2_label">Discount Analysis</string>
+    <string name="item3_label">Anamoly Detection</string>
+    <string name="item4_label">Price Comparison</string>
+
+    <!-- Toast Messages -->
+    <string name="card1_clicked">Future Price Prediction</string>
+    <string name="card2_clicked">Discount Analysis</string>
+    <string name="card3_clicked">Anamoly Detection</string>
+    <string name="card4_clicked">Price Comparison</string>
+
+    <string name="graph_image_desc">Description of the graph image</string>
+
+    <!-- Descriptions for each graph -->
+    <string name="graph_description_distribution_of_discounts">
+        Distribution of discount percentages across all products in the dataset. This histogram shows how frequently different discount ranges occur, with a kernel density estimate (KDE) overlay providing a smoothed representation of the discount distribution.
+    </string>
+    <string name="graph_description_average_monthly_discounts_over_time">
+        Displays the average discount percentages for each month over time, revealing trends and patterns in discounting across different months.
+    </string>
+    <string name="graph_description_average_discount_by_simplified_category">
+        Shows average discount percentages across various categories with abbreviated names for clarity, highlighting trends in discount levels by category.
+    </string>
+    <string name="graph_description_scatter_plot_discount_vs_prices">
+        Visualizes the relationship between discount percentages and product prices, distinguishing between maximum and minimum prices using different colors.
+    </string>
+    <string name="graph_description_pair_plot_discounts_and_features">
+        Illustrates relationships between discount and other numerical features, including maximum and minimum prices and weight, helping to identify patterns and correlations.
+    </string>
+    <string name="graph_description_boxplot_of_discounts">
+        Provides a summary of the distribution of discount percentages, highlighting central tendency, variability, and potential outliers.
+    </string>
+    <string name="graph_description_average_discount_heatmap">
+        Displays average discount percentages across categories and months using color intensity to represent discount magnitude.
+    </string>
+
+</resources>

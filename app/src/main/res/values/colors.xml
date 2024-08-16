@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Splash">#000000</color>
+    <color name="gray">#7E8A98</color>
+
+    <color name="backgroundColor">#121212</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="buttonColor">#FF5722</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="primaryColor">#1D2B64</color>
+    <color name="primaryColorVariant">#003D6C</color>
+    <color name="accentColor">#00BFFF</color>
+    <color name="accentColorVariant">#00A5E6</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="surfaceColor">#F0F0F0</color>
+    <color name="appBackgroundColor">#FFFFFF</color>
+    <color name="cardColor">#FFCC00</color>
+    <color name="textColorSecondary">#FF8888</color>
+
+
+</resources>
