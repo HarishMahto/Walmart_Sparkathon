@@ -25,7 +25,7 @@
 ---
 
 ## Problem Statement
-In the fast-paced e-commerce environment, Walmart struggles to stay competitive with rapidly fluctuating prices and promotions by competitors. A real-time solution is required to track, compare, and adapt to these dynamic changes.
+In the fast-paced e-commerce environment, Walmart struggles to stay competitive with rapidly fluctuating prices and promotions by competitors. A real-time solution is required to track, compare,and adapt to these dynamic changes.
 
 ---
 
